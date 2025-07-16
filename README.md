@@ -1,3 +1,5 @@
+<img width="1562" height="1016" alt="image" src="https://github.com/user-attachments/assets/75fd203d-ca9b-4794-b51f-8246bf0daed7" />
+
 # 🔮 Vedic Horoscope Generator (वेदिक कुंडली)
 
 A modern Python-powered web app to generate detailed Vedic horoscope (कुंडली) using:
